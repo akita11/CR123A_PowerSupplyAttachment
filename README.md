@@ -29,11 +29,13 @@ SwitchBotスマートロックなど動作時に消費電流が大きなもの�
 
 <img src="https://github.com/akita11/CR123A_PowerSupplyAttachment/blob/main/CR123A_PowerSupplyAttachment_step1b.jpg" width="240px">
 
-(5)と(3)（プラス極用ナット）を、プラス極側（穴がすりばち状になっていない方）にさしこみ、(1)（プラス極用ねじ）で固定します。
+(5)と(3)（プラス極用ナット）を、筐体(7)のプラス極側（穴がすりばち状になっていない方）にさしこみ、(1)（プラス極用ねじ）で固定します。
 
 <img src="https://github.com/akita11/CR123A_PowerSupplyAttachment/blob/main/CR123A_PowerSupplyAttachment_step2.jpg" width="240px">
 
 (6)と(4)（マイナス極用ナット）を、マイナス極側（穴がすりばち状になってる方）にさしこみ、(2)（マイナス極用ねじ）で固定します。
+
+その後、両極の金具を、筐体にあわせて折り曲げます。
 
 <img src="https://github.com/akita11/CR123A_PowerSupplyAttachment/blob/main/CR123A_PowerSupplyAttachment_cap.jpg" width="240px">
 

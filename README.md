@@ -35,7 +35,7 @@ SwitchBotスマートロックなど動作時に消費電流が大きなもの�
 
 (6)と(4)（マイナス極用ナット）を、マイナス極側（穴がすりばち状になってる方）にさしこみ、(2)（マイナス極用ねじ）で固定します。
 
-その後、両極の金具を、筐体にあわせて折り曲げます。
+その後、両極の金具を、筐体にあわせて内側に折り曲げます。
 
 <img src="https://github.com/akita11/CR123A_PowerSupplyAttachment/blob/main/CR123A_PowerSupplyAttachment_cap.jpg" width="240px">
 
